@@ -2,3 +2,4 @@
 # expects the first number to be an integer or a Float
 
 first_number = 7
+second_number = 8
