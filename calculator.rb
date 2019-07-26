@@ -5,3 +5,4 @@ first_number = 7
 second_number = 8
 sum =  15
 difference = -1
+first_number * second_number = product
