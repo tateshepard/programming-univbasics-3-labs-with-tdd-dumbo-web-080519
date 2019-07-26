@@ -6,3 +6,4 @@ second_number = 8
 sum =  15
 difference = -1
 product = first_number * second_number
+quotient = first_number / second_number
